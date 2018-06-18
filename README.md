@@ -47,3 +47,13 @@ original text  = ?
 Time: 30 mins
 
 Problem From: [Edwin Rosario's Repo](https://gist.github.com/EdwinRozario/f41ab165969f2afce42d388379b26a03)
+
+## How to run?
+
+```
+% ruby atbash_app.rb
+
+CIPHER: 'oephjizkxdawubnytvfglqsrcm'
+ENCRYPTED TEXT: 'knlfgnb, sj koqj o yvnewju'
+OUTPUT: 'houston, we have a problem'
+```
